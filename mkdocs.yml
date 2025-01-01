@@ -1,0 +1,4 @@
+site_name: UCSD Course Review
+nav:
+  - Home: index.md
+  - ECE 35: ECE35.md
