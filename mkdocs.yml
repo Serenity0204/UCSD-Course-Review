@@ -1,4 +1,4 @@
 site_name: UCSD Course Review
 nav:
   - Home: index.md
-  - ECE 35: ECE35.md
+  - Fall 2024: fall2024.md
